@@ -1,0 +1,65 @@
+
+
+{
+    "movieGoing": [
+        {
+            "reason":"The films available to see in theaters",
+            "percentage":"61%"
+        },
+
+        {
+            "reason":"The audio/visual quality of the films",
+            "percentage":"50%"
+        },
+
+        {
+            "reason": "The price of the movie theater tickets",
+            "percentage":"48%"
+        },
+
+        {
+            "reason":"The quality of the service at the movie theater",
+            "percentage":"41%"
+        },
+
+        {
+            "reason":"The physical comfort of the seats at the movie theater",
+            "percentage":"40%"
+        },
+
+        {
+            "reason":"The COVID-19 pandemic",
+            "percentage":"36%"
+        },
+
+        {
+            "reason":"The ability to book specific seats in advance",
+            "percentage":"27%"
+        },
+
+        {
+            "reason":"The ability to have food and beverages brought to your seat",
+            "percentage":"19%"
+        },
+        
+        {
+            "reason":"The option to be a rewards member at your favorite theater",
+            "percentage":"16%"
+        },
+
+        {
+            "reason":"The option to order alcoholic beverages at the movie theater",
+            "percentage":"15%"
+        },
+
+        {
+            "reason": "The availability of 4DX at the movie theater",
+            "percentage":"14%"
+        },
+
+        {
+            "reason": "The option to use a ticket subscription service",
+            "percentage":"11%"
+        }
+    ]
+}
