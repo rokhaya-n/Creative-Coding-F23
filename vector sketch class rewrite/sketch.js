@@ -32,7 +32,7 @@ class Toast {
   constructor() {
     this.size = random(50,100)
     this.col = color(255,201,62);
-    this.stro = color(126,67,36);
+    this.stro = color(126,67,36, 200);
     this.strW = strokeWeight(6);
     //set up vector for x y position
     this.pos =  createVector(width / 2, height / 2);
@@ -53,7 +53,7 @@ theAppearance() {
   fill(this.col)
   stroke(this.stro)
   strokeWeight(this.strW)
-  rect(this.pos.x, this.pos.y, this.size);
+  rect(this.pos.x, this.pos.y, this.size, 70, 10);
 }
 
 wallBoundaries() {
