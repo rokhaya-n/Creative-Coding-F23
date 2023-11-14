@@ -70,8 +70,14 @@ function gotResult(error, results) {
 //functions to generate images based on machine output
 function drawHiphop() {
   image(hiphop,400,550,200,300);
+  textSize(25);
+  fill(0,255,0);
+  text("Detected:",280,370)
 }
 
 function drawAfrobeats() {
   image(afrobeats,400,550,200,300);
+  textSize(25);
+  fill(0,255,0);
+  text("Detected:",280,370)
 }
